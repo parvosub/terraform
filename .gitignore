@@ -2,3 +2,5 @@ pests.txt
 *.tfstate
 *.tfstate.backup
 
+.terraform.lock.hcl
+.terraform/
