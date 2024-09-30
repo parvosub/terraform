@@ -1,0 +1,4 @@
+pests.txt
+*.tfstate
+*.tfstate.backup
+
